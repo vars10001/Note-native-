@@ -27,6 +27,31 @@ The app allows users to create, view, edit, and manage notes efficiently with a 
 - **Development Tools**: Expo CLI
 
 ---
+## ⚙️ Setup Instructions
+
+Follow the steps below to run the project locally.
+
+---
+
+### 1️⃣ Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (v16 or above recommended)
+- **Git**
+- **Expo CLI**
+- **Expo Go app** (on your Android device)
+
+Install Expo CLI globally:
+```bash
+npm install -g expo-cli
+
+### 2️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/vars10001/Note-native-.git
+cd Note-native-
+---
 
 ## 📖 Usage
 
