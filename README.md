@@ -28,9 +28,6 @@ The app allows users to create, view, edit, and manage notes efficiently with a 
 
 ---
 
-
----
-
 ## 📖 Usage
 
 ### Create a Note
